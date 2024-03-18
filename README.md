@@ -1,17 +1,11 @@
 Used Car Price Prediction System
 
 Welcome to the Used Car Price Prediction System GitHub repository! This project is designed to predict the price of used cars based on various features using a Shiny web application.
-Table of Contents
-
-Introduction
-Features
-Installation
-Usage
-Contributing
 
 Introduction
 
 The Used Car Price Prediction System utilizes machine learning techniques to predict the price of used cars. It provides an interactive interface powered by Shiny, allowing users to input car details such as company, model, year, kilometers driven, and fuel type to obtain predicted prices.
+
 Features
 
 Interactive Interface: Utilizes Shiny web application for user-friendly interaction.
